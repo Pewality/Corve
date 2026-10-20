@@ -1,4 +1,4 @@
-Controls - A = Power/Angle bar  A/B = SLAM B  B twice = reset  D-pad = Controlling the menu
+#Controls - A = Power/Angle bar  A/B = SLAM B  B twice = reset  D-pad = Controlling the menu
 
 import thumby
 import math
