@@ -4,7 +4,6 @@
 #
 # Put ALL of these in /Games/ThumbyChat/ on the Thumby:
 #   ThumbyChat.py  chatapp.py  chatbrain.py  starters.py  chat.dat  ThumbyChat.bin
-# (chatdata.py + chatdata2.py are only for the web emulator - not needed on the Thumby)
 import sys
 import gc
 sys.path.insert(0, "/Games/ThumbyChat")
